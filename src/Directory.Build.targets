@@ -1,0 +1,13 @@
+<Project>
+  <ItemGroup>
+    <!--todo Change to Directory.Packages.props. see https://stu.dev/managing-package-versions-centrally/-->
+    <PackageReference Update="JetBrains.Annotations" Version="2020.1.0" />
+    <PackageReference Update="Nerdbank.GitVersioning" Version="3.1.91" />
+
+    <PackageReference Update="Microsoft.NET.Test.Sdk" Version="16.6.1" />
+    <PackageReference Update="Moq" Version="4.14.1" />
+    <PackageReference Update="NUnit" Version="3.12.0" />
+    <PackageReference Update="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Update="System.Drawing.Common" Version="4.7.0" />
+  </ItemGroup>
+</Project>
