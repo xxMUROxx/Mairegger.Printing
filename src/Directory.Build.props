@@ -8,6 +8,8 @@
     <PackageProjectUrl>$(GithubUrl)</PackageProjectUrl>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <RepositoryUrl>$(GithubUrl)</RepositoryUrl>
+
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
 
   <ItemGroup>
